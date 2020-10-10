@@ -1,0 +1,13 @@
+#one{
+    background-image: url("./assets/backgrounds/h_img.jpg");
+    width:100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+    font-size: 17px;
+    color: white;
+}
+.one{
+    padding-top:30px;
+}
