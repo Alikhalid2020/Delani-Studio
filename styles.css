@@ -17,6 +17,7 @@
 }
 h2{
     text-align: center;
+
 }
 .three{
     background-image: url("./assets/backgrounds/s_image.jpg");
@@ -29,4 +30,10 @@ h2{
 }
 .three{
     padding-top: 100px;
+}
+.four{
+    padding-top: 30px;
+}
+.row{
+    padding-top: 20px;
 }
