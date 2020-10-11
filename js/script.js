@@ -116,7 +116,7 @@ $(document).ready(function () {
             alert("Please Insert your name")
         } else
         if (email === "") {
-            
+            alert("Enter your Email")
         } else
         if (message === "") {
             alert("Please insert your message!")
